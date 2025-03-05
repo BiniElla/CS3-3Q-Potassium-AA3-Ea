@@ -1,4 +1,4 @@
-function CallaFunction() {
+function conditionalFunc() {
 	let Message = prompt('Enter the message:');
 	
 	if (Message.includes("FR")|| Message.includes("FR") && Message.includes("AI")) {
